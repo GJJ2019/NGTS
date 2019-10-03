@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127344330774",
+    "firebase_url": "https://huva-bbfda.firebaseio.com",
+    "project_id": "huva-bbfda",
+    "storage_bucket": "huva-bbfda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127344330774:android:88e3e974387f3b75094d37",
+        "android_client_info": {
+          "package_name": "com.example.ngts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127344330774-0sbpu3ckqkdoikgj391u7sboumtviu3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ngts",
+            "certificate_hash": "1ff0d49f9b3e5531e0107bed54c64842fb24b74f"
+          }
+        },
+        {
+          "client_id": "127344330774-qts7h88kagt4ik09ovspp6jl7fk4vpke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXM544z3VQ4stu20APy3Gvg_H6RMZzkKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127344330774-qts7h88kagt4ik09ovspp6jl7fk4vpke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
